@@ -26,7 +26,15 @@ ZOC is a popular computer-based terminal emulator and Telnet software client for
 - Platfrom - Windows & MacOS
 - Price - 30 Days Free
 - Status - Closed-Source
-- Website - www.emtec.com/zoc/
+- Website - www.emtec.com/zoc
+
+
+#### Terminator 
+Terminator is an open-source terminal emulator programmed in Java. It will run on any modern POSIX system running Java 6 or later. 
+
+- Platfrom - Windows, Linux & MacOS
+- Price - Free
+- Status - Open-Source
 
 ----
 
