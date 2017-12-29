@@ -1,2 +1,35 @@
-# awesome-term
-📡 A curated list of awesome terminal emulators 
+<h1 align="center"> awesome-term </h1>
+<p align="center"> 📡 A curated list of awesome terminal emulators in no particular order.</p>
+
+---
+
+
+#### iTerm2
+iTerm2 is a GPL-licensed terminal emulator. It was derived from and has mostly supplanted the earlier "iTerm" application. iTerm2 is highly customizable and works really well with Git.
+
+- Platfrom - MacOS
+- Price - Free
+- Status - Open-Source
+- Website - www.iterm2.com
+
+#### ConEmu
+ConEmu is a free and open-source tabbed terminal emulator. It presents multiple consoles and simple GUI applications as one customizable GUI window with tabs and a status bar. ComEmu is a great emulator if you want to keep a similar style to command prompt.
+
+- Platfrom - Windows
+- Price - Free
+- Status - Open-Source
+- Website - www.conemu.github.io
+
+#### ZOC
+ZOC is a popular computer-based terminal emulator and Telnet software client for Windows and MacOS. It features a helpful menu bar and the option to have multiple tabs open.
+
+- Platfrom - Windows & MacOS
+- Price - 30 Days Free
+- Status - Closed-Source
+- Website - www.emtec.com/zoc/
+
+----
+
+#### Requests
+Have an awesome emulator that you think should be on this list? Please open an issue and let us know.
+
