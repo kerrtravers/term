@@ -1,8 +1,8 @@
-<h1 align="center"> awesome-term </h1>
-<p align="center"> 📡 A curated list of awesome terminal emulators in no particular order.</p>
-
----
-
+<h1 align="center"> Awesome-Term </h1>
+<p align="center"> 📡 A curated list of awesome terminal emulators, in no particular order. 📡</p>
+<p align="center">
+  <a href="http://vutondesign.com/MyMIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
+</p>
 
 #### iTerm2
 iTerm2 is a GPL-licensed terminal emulator. It was derived from and has mostly supplanted the earlier "iTerm" application. iTerm2 is highly customizable and works really well with Git.
