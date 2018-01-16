@@ -41,3 +41,4 @@ Terminator is an open-source terminal emulator programmed in Java. It will run o
 #### Requests
 Have an awesome emulator that you think should be on this list? Please open an issue and let us know.
 
+![Code of Conduct](https://img.shields.io/badge/%E2%88%9A-Code%20of%20Conduct-orange.svg)
