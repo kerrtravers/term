@@ -28,9 +28,16 @@ ZOC is a popular computer-based terminal emulator and Telnet software client for
 - Status - Closed-Source
 - Website - www.emtec.com/zoc
 
-
 #### Terminator 
 Terminator is an open-source terminal emulator programmed in Java. It will run on any modern POSIX system running Java 6 or later. 
+
+- Platfrom - Windows, Linux & MacOS
+- Price - Free
+- Status - Open-Source
+
+
+#### PuTTY 
+PuTTY is an awesome free and open-source terminal emulator, serial console and network file transfer application. It also supports several network protocols, including SCP, SSH, Telnet, rlogin, and raw socket connection.
 
 - Platfrom - Windows, Linux & MacOS
 - Price - Free
