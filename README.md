@@ -1,4 +1,4 @@
-<h1 align="center"> Awesome-Term </h1>
+<h1 align="center"> Term </h1>
 <p align="center"> 📡 A curated list of awesome terminal emulators, in no particular order. 📡</p>
 <p align="center">
   <a href="http://vutondesign.com/MyMIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
