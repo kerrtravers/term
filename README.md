@@ -20,6 +20,15 @@ iTerm2 is a GPL-licensed terminal emulator. It was derived from and has mostly s
 - Status - Open-Source
 - Website - www.iterm2.com
 
+#### Hyper
+Hyper is a MIT-licensed terminal emulator developed by ZEIT. It has a library of Plugins and Themes and is actively maintained. 
+
+
+- Platfrom - Windows, Linux & MacOS
+- Price - Free
+- Status - Open-Source
+- Website - www.hyper.is
+
 #### ConEmu
 ConEmu is a free and open-source tabbed terminal emulator. It presents multiple consoles and simple GUI applications as one customizable GUI window with tabs and a status bar. ComEmu is a great emulator if you want to keep a similar style to command prompt.
 
